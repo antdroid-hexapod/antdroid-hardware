@@ -3,7 +3,7 @@ Antdroid is a robot designed to be 3D printed.
 
 It is ***designed in CATIA  V5*** with a ***full parametric design***, witch allows you to easily ***resize and adapt*** the model to your own servos or hardware requirements.
 
-Unfortunately, as we just said, the whole project has been desing using CATIA, so if you want to modify it, you will need a license of the program. We would like to port it to a free software solution but, at the moment, it is not posible.
+Unfortunately, CATIA is not a free opensource program, so if you want to modify it, you will need a license. We would like to port it to a free software solution but, at the moment, it is not posible.
 
 
 ## 3D printable parts
