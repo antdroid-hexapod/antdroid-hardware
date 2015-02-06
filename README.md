@@ -41,7 +41,7 @@ All the parts have been exported to ***stl format***, so you can easily print th
 |------------------------------	|--------	|
 | Towerpro MG996R 10kg Servo   	|   18   	|
 | Lipo Battery (2S or above)   	|    1   	|
-| XT60 Connector               	|    1   	|
+| XT60 Connector (Male)        	|    1   	|
 | YEP 20A SBEC                 	|    1   	|
 | Arduino Mega 2560 r3         	|    1   	|
 | Arduino Mega Proto Shield R3 	|    1   	|
