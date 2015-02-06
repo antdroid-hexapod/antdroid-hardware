@@ -1,13 +1,13 @@
 #Antdroid Hardware Components
 Antdroid is a robot designed to be 3D printed.
 
-It is designed in CATIA with a full parametric design. So easily you can resize and adapt your model to your owns servos or hardware requirements.
+It is ***designed in CATIA  V5*** with a ***full parametric design***, witch allows you to easily ***resize and adapt*** the model to your own servos or hardware requirements.
 
-Unfortunately, you will need a license of CATIA to work with it. We would desire to port it to a free software solution but, at the moment, it is not posible.
+Unfortunately, as we just said, the whole project has been desing using CATIA, so if you want to modify it, you will need a license of the program. We would like to port it to a free software solution but, at the moment, it is not posible.
 
 
 ## 3D printable parts
-All parts are exported to stl format so you can easily print them.
+All the parts have been exported to ***stl format***, so you can easily print them.
 
 ### Recommendations for printing
 | Part             | Layer Height | Infill | Support  | Number of Pieces | Plastic (g) | Material   |
