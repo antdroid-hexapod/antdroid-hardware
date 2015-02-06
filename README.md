@@ -48,7 +48,7 @@ All the parts have been exported to ***stl format***, so you can easily print th
 | Arduino Mega Proto Shield R3 	|    1   	|
 | Male Pin Strip 0.1''         	|   60   	|
 | DC 7V-24V To DC 5V 3A USB    	|    1   	|
-| Raspberry Pi Model B (*)     	|    1   	|
+| Raspberry Pi Model B        	|    1   	|
 | 8GB SD Card                  	|    1   	|
 | USB Wifi                     	|    1   	|
 | Raspberry Pi Camera Board    	|    1   	|
