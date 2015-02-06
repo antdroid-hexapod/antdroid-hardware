@@ -14,7 +14,7 @@ All the parts have been exported to ***stl format***, so you can easily print th
 |------------------|--------------|--------|----------|------------------|-------------|------------|
 | Coxa             |      0.2     |   40%  |    Yes   |         6        |     189     |     PLA    |
 | Femur            |     0.25     |   40%  |    No    |         6        |      30     | PLA or ABS |
-| Sym of femur     |     0.25     |   40%  |    No    |         6        |      30     | PLA or ABS |
+| Femur simetria   |     0.25     |   40%  |    No    |         6        |      30     | PLA or ABS |
 | Separador        |      0.2     |   40%  |    No    |         6        |      9      |     PLA    |
 | Tibia            |      0.2     |   40%  |    Yes   |         6        |     342     |     PLA    |
 | Tapa servo       |      0.1     |   50%  |    Yes   |        18        |     128     | PLA or ABS |
@@ -22,6 +22,7 @@ All the parts have been exported to ***stl format***, so you can easily print th
 | Base superior    |      0.2     |   25%  |    No    |         1        |     158     |     PLA    |
 | Separador cuerpo |      0.2     |   40%  |    No    |         2        |      19     |     ABS    |
 | Soporte camara   |      0.2     |   40%  |    No    |         1        |      20     |     ABS    |
+| Pie              |              |        |    Yes   |         6        |             |            |
 
 ## Nuts and bolts
 
@@ -47,11 +48,9 @@ All the parts have been exported to ***stl format***, so you can easily print th
 | Arduino Mega Proto Shield R3 	|    1   	|
 | Male Pin Strip 0.1''         	|   60   	|
 | DC 7V-24V To DC 5V 3A USB    	|    1   	|
-| Raspberry Pi Model B         	|    1   	|
+| Raspberry Pi Model B (*)     	|    1   	|
 | 8GB SD Card                  	|    1   	|
 | USB Wifi                     	|    1   	|
 | Raspberry Pi Camera Board    	|    1   	|
 
-
-
-
+(*) To date, Raspberry Pi(RPi) B+ and RPi 2 have been released. Due to design specifications, the ***AntDroid frame can ONLY hold RPi B (NOT model B+)***. This is due to the place of the holes that the RPi board have. In fact, RPi B+ and RPi 2 have more holes (4 instead 2). In future upgrades we are going to fix this problem releasing a base to hold the new RPi. Meanwhile, ***RPi B+ and RPi 2 are not supported. ***
