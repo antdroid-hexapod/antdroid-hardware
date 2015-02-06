@@ -53,4 +53,4 @@ All the parts have been exported to ***stl format***, so you can easily print th
 | USB Wifi                     	|    1   	|
 | Raspberry Pi Camera Board    	|    1   	|
 
-(*) To date, Raspberry Pi(RPi) B+ and RPi 2 have been released. Due to design specifications, the ***AntDroid frame can ONLY hold RPi B (NOT model B+)***. This is due to the place of the holes that the RPi board have. In fact, RPi B+ and RPi 2 have more holes (4 instead 2). In future upgrades we are going to fix this problem releasing a base to hold the new RPi. Meanwhile, ***RPi B+ and RPi 2 are not supported. ***
+***WARN***: To date, Raspberry Pi(RPi) B+ and RPi 2 have been released. Due to design specifications, the ***AntDroid frame can ONLY hold RPi B (NOT model B+)***. This is due to the place of the holes that the RPi board have. In fact, RPi B+ and RPi 2 have more holes (4 instead 2). In future upgrades we are going to fix this problem releasing a base to hold the new RPi. Meanwhile, ***RPi B+ and RPi 2 are not supported. ***
