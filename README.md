@@ -70,6 +70,7 @@ Optional
 The Raspberry Pi B has only two USB ports. One of them is going to be used by the serial connection with the Arduino MEGA. This fact leaves us two connectivity options:
 
   Bluetooth
+  
   Wifi
 
 If you want to use them at the same time you will have to buy a USB hub with external power supply because the RPi can not power several devices with a high power consumption.
