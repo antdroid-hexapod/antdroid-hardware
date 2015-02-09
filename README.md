@@ -53,4 +53,23 @@ All the parts have been exported to ***stl format***, so you can easily print th
 | USB Wifi                     	|    1   	|
 | Raspberry Pi Camera Board    	|    1   	|
 
-***WARN***: To date, Raspberry Pi(RPi) B+ and RPi 2 have been released. Due to design specifications, the ***AntDroid frame can ONLY hold RPi B (NOT model B+)***. This is due to the place of the holes that the RPi board have. In fact, RPi B+ and RPi 2 have more holes (4 instead 2). In future upgrades we are going to fix this problem releasing a base to hold the new RPi. Meanwhile, ***RPi B+ and RPi 2 are not supported. ***
+***WARN***: To date, Raspberry Pi(RPi) B+ and RPi 2 have been released. Due to design specifications, the ***AntDroid frame can ONLY hold RPi B (NOT model B+)***. This is due to the place of the holes that the RPi board have. In fact, RPi B+ and RPi 2 have more holes (4 instead 2). In future upgrades we are going to fix this problem releasing a base to hold the new RPi. Meanwhile, ***RPi B+ and RPi 2 are not supported***.
+
+
+Optional
+
+| Component                    	| Number 	|
+|------------------------------	|--------	|
+| LiPo low voltage alarm        |    1   	|
+| PS3 Dualshock controller      |    1   	|
+| USB Bluetooth                 |    1   	|
+| USB hub external power supply |    1   	|
+
+***WARN***: The SBEC doesn't alert of a low battery charge. It is highly recommendable to add a voltage alarm to the LiPo battery in order to not damage it.
+
+The Raspberry Pi B has only two USB ports. One of them is going to be used by the serial connection with the Arduino MEGA. This fact leaves us two connectivity options:
+
+>Bluetooth
+>Wifi
+
+If you want to use them at the same time you will have to buy a USB hub with external power supply because the RPi can not power several devices with a high power consumption.
