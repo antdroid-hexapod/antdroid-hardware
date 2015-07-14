@@ -1,0 +1,3 @@
+[submodule "antdroid-board"]
+	path = antdroid-board
+	url = https://github.com/antdroid-hexapod/antdroid-board
